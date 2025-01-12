@@ -12,5 +12,5 @@ I have learnt the importance of relative folders and how to link them properly t
 
 to fix this I changed the directory of the image links from "../images/image.html" to "/odin-project/images/image.html" this worked as a fix for the image issue.
 
-To fix my issue with the linking to the index file I changed the "<a href="/index.html">Home</a>" to "<a href="../index.html">Home</a>" to allow for relative linking so users could navigate the site without issue.
+To fix my issue with the linking to the index file I changed the <!-- "<a href="/index.html">Home</a>" to "<a href="../index.html">Home</a>" --> to allow for relative linking so users could navigate the site without issue.
 
